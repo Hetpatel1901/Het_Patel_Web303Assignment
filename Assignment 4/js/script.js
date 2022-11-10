@@ -51,10 +51,6 @@ $(function () {
         alert("Sorry!! You must allow geolocation in order to use the application.");
     }
 
-    // location.reload();
-
-
-
     // DO NOT EDIT ANY CODE IN THIS FUNCTION DEFINTION
     // function to calculate the distance in metres between two lat/long pairs on Earth
     // Haversine formula - https://en.wikipedia.org/wiki/Haversine_formula
