@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Cristiano Ronaldo",
+        "gender": "Male",
+        "goal": "818",
+        "team": "Portugal national football team",
+        "trophies": "100"
+    }, 
+    {
+        "name": "Lionel Messi",
+        "gender": "Male",
+        "goal": "756",
+        "team": "FC Barcelona",
+        "trophies": "86"
+    },
+    {
+        "name": "Joel Matip",
+        "gender": "Male",
+        "goal": "153",
+        "team": "Germany",
+        "trophies": "34"
+    },
+    {
+        "name": "Alisson Ramses Becker",
+        "gender": "Male",
+        "goal": "234",
+        "team": "Brazil",
+        "trophies": "23"
+    }, 
+    {
+        "name": "David de Gea Quintana",
+        "gender": "Male",
+        "goal": "432",
+        "team": "Spaim",
+        "trophies": "11"
+    },
+    {
+        "name": "Marcos Alberto Rojo",
+        "gender": "Male",
+        "goal": "100",
+        "team": "Italy",
+        "trophies": "10"
+    },
+    {
+        "name": "Neymar",
+        "gender": "Male",
+        "goal": "187",
+        "team": "Brazil",
+        "trophies": "50"
+    },
+    {
+        "name": "Robert Lewandowski",
+        "gender": "Male",
+        "goal": "124",
+        "team": "Poland",
+        "trophies": "12"
+    },
+    {
+        "name": "Kylian Mbappé",
+        "gender": "Male",
+        "goal": "97",
+        "team": "France",
+        "trophies": "32"
+    },
+    {
+        "name": "Riyad Mahrez",
+        "gender": "Male",
+        "goal": "67",
+        "team": "Algeria",
+        "trophies": "12"
+    }
+]
